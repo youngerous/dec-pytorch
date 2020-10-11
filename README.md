@@ -15,6 +15,13 @@ This is simplified pytorch-lightning implementation of 'Unsupervised Deep Embedd
 - sklearn == 0.23.2
 ```
 
+## Result
+- Standard K-Means Unsupervised Accuracy: 46%
+- Initial Unsupervised Accuracy: 57.2%
+- Trained Unsupervised Accuracy: 73.0%
+
+p.s) Not follow paper settings strictly.
+
 ## Dataset
 - MNIST in torchvision
 
